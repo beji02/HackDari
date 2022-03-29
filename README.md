@@ -8,6 +8,7 @@ This is the repository representing the BusTracker project, UBB Hermes Hackathon
 @author [Ionut Tomutiu] (https://github.com/tontonel) <br/>
 @author [Lucas Sergie] (https://github.com/LucasSerghie)
 
-
-The bus driver runs the app so the users can always track its real time position.
+Hackathon bus tracker app developed in C# for the backend and Xamarin for the frontend.
+The app is divided in into two: DriverApp and UserApp. 
+The driver can choose the number of the bus he is driving and live share his location on the map so the users can track it.
 
